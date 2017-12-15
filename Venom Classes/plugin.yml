@@ -1,0 +1,7 @@
+name: VenomKits
+main: me.fairing.kits.ClassesPlugin
+version: 1.0
+author: Fairing
+commands:
+  kits:
+    description: 'Use this to gain your kits.'
